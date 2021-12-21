@@ -8,3 +8,9 @@
 - **Github:** [Kantor17](https://github.com/Kantor17)
 ## About me
 I see development as the main passion of my life. Making progress in this field keeps me extremely motivated and delighted.
+## Skills 
+- HTML
+- CSS, SCSS
+- JavaScript (basic, in progress)
+- Git, GitHub
+- VSCode
