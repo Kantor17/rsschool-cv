@@ -6,3 +6,5 @@
 - **Telegram:** @kantor_max
 - **Discord:** @exitvim#7444
 - **Github:** [Kantor17](https://github.com/Kantor17)
+## About me
+I see development as the main passion of my life. Making progress in this field keeps me extremely motivated and delighted.
