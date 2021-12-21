@@ -14,3 +14,9 @@ I see development as the main passion of my life. Making progress in this field 
 - JavaScript (basic, in progress)
 - Git, GitHub
 - VSCode
+## Code Example
+```
+function multiply(a, b){
+  return a * b;
+}
+```
