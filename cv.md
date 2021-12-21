@@ -1,5 +1,5 @@
-#Maksym Kantor
-##Contact information
+# Maksym Kantor
+## Contact information
 - **Location:** Chervonohrad, Lviv Oblast, Ukraine
 - **E-mail:** max.kantor72@gmail.com
 - **Phone:** +380635491715
