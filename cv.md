@@ -16,7 +16,12 @@ I see development as the main passion of my life. Making progress in this field 
 - VSCode
 ## Code Example
 ```
-function multiply(a, b){
+function multiply(a, b) {
   return a * b;
 }
 ```
+## Experience 
+### Some of my training projects:
+- https://kantor17.github.io/webovio/
+- https://kantor17.github.io/binary/
+- https://kantor17.github.io/methed_cinema_js/
