@@ -6,6 +6,7 @@
 - **Telegram:** @kantor_max
 - **Discord:** @exitvim#7444
 - **Github:** [Kantor17](https://github.com/Kantor17)
+
 ## About me
 I see development as the main passion of my life. Making progress in this field keeps me extremely motivated and delighted.
 ## Skills 
@@ -14,6 +15,7 @@ I see development as the main passion of my life. Making progress in this field 
 - JavaScript (basic, in progress)
 - Git, GitHub
 - VSCode
+
 ## Code Example
 ```
 function multiply(a, b) {
@@ -25,9 +27,11 @@ function multiply(a, b) {
 - https://kantor17.github.io/webovio/
 - https://kantor17.github.io/binary/
 - https://kantor17.github.io/methed_cinema_js/
+
 ## Education
 - [FreeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/kantor17/responsive-web-design)
 - The Rolling Scopes School JS / FRONT-END. STAGE 0 - in progress
+
 ## Languages 
 - English - Intermediate/Upper-intermediate (I'm good at [reading and listening](https://www.efset.org/cert/uLBCxF) but don't have any experience at speaking)
 - Ukrainian - Native
