@@ -28,3 +28,8 @@ function multiply(a, b) {
 ## Education
 - [FreeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/kantor17/responsive-web-design)
 - The Rolling Scopes School JS / FRONT-END. STAGE 0 - in progress
+## Languages 
+- English - Intermediate/Upper-intermediate (I'm good at [reading and listening](https://www.efset.org/cert/uLBCxF) but don't have any experience at speaking)
+- Ukrainian - Native
+- Russian - Fluent
+- Polish - Basic, in progress
