@@ -25,3 +25,6 @@ function multiply(a, b) {
 - https://kantor17.github.io/webovio/
 - https://kantor17.github.io/binary/
 - https://kantor17.github.io/methed_cinema_js/
+## Education
+- [FreeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/kantor17/responsive-web-design)
+- The Rolling Scopes School JS / FRONT-END. STAGE 0 - in progress
