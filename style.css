@@ -54,3 +54,6 @@ section {
   color: #1597BB;
 }
 
+.contacts__list {
+  list-style: none;
+}
