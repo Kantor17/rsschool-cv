@@ -54,6 +54,10 @@ section {
   color: #1597BB;
 }
 
+.contacts__title {
+  margin-bottom: 20px;
+}
+
 .contacts__list {
   list-style: none;
 }
