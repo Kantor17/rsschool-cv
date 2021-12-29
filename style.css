@@ -9,10 +9,15 @@ a {
 body {
   font-family: 'Roboto Mono';
 }
+
 .container {
   max-width: 1290px;
   margin: 0 auto;
   padding: 0 10px;
+}
+
+section {
+  padding: 20px 0px;
 }
 
 .header {
@@ -28,7 +33,6 @@ body {
   align-items: center;
   height: 100vh;
 }
-
 
 .header__myself {
   text-align: center;
