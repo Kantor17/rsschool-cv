@@ -10,6 +10,10 @@ body {
   font-family: 'Roboto Mono';
 }
 
+a:hover {
+  color: #1597BB;
+}
+
 .container {
   max-width: 1290px;
   margin: 0 auto;
@@ -54,10 +58,6 @@ ol {
 
 .header__item {
   margin-bottom: 10px;
-}
-
-.header__item:hover {
-  color: #1597BB;
 }
 
 .contacts__title {
