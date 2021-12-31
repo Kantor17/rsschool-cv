@@ -29,6 +29,10 @@ ol {
   list-style: none;
 }
 
+.title {
+  margin-bottom: 10px;  
+}
+
 .header {
   padding: 20px 0px 40px 0px;
   background-color: #2C394B;
@@ -58,8 +62,4 @@ ol {
 
 .header__item {
   margin-bottom: 10px;
-}
-
-.contacts__title {
-  margin-bottom: 20px;
 }
