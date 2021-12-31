@@ -8,6 +8,9 @@ a {
 }
 body {
   font-family: 'Roboto Mono';
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 a:hover {
